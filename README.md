@@ -1,6 +1,6 @@
 # postal-dude
 <div align="center">
-![My GIF](./postaldudeeebbdd.gif)
+<img src="./postaldudeeebbdd.gif" alt="My GIF">
   
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=wb21i2w3h0z1huaik6bqok0xc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
 
