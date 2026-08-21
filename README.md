@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="./postalblinkie.gif" alt="Postal blinkie"><img src="./lpblinkie.gif" alt="LP blinkie"><img src="./kmfdmblinkie.gif" alt="KMFDM blinkie">
+
 <img src="./guitarblinkie.gif" alt="Guitar blinkie"><img src="./eddsworldblinkie.gif" alt="Eddsworld blinkie"><img src="./gunblinkie.gif" alt="Gun blinkie">
 
 <img src="./postaldudeeebbdd.gif" alt="My GIF"> <img src="./david..gif" alt="David GIF">
